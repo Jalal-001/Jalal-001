@@ -22,7 +22,7 @@ Backend engineer specializing in **.NET 8+**, **Modular Monoliths**, and **Event
 * **Optimization:** Enhanced financial modules (Loan Calculators) and Customer Rating (NPS) systems through performance tuning.
 
 ### **Contribution | Construction ERP**
-* **Architecture:** Developing a **Modular Monolith** focusing on Accounting, Warehouse, and User modules.
+* **Architecture:** Developing a **Modular Monolith** focusing on Accounting, Warehouse,Workflow (Document circultion) and User modules.
 * **Event-Driven Design:** Configured **RabbitMQ** and implemented **Outbox/Inbox patterns** to ensure 100% data consistency between modules.
 * **Infrastructure:** Managing identity with **Keycloak** and deploying via **Docker** on DigitalOcean.
 
