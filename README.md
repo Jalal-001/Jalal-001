@@ -1,59 +1,39 @@
 # 👋 Hi, I'm Jalal Khaligov
-**.NET Backend Software Engineer** | ASP.NET Core · C# · EF Core · SQL Server · PostgreSQL
+**.NET Backend Software Engineer** | Building Scalable ERP & Business Systems
 
-I build **scalable backend systems** and **business applications** with clean architecture principles and real-world integrations.
-
----
-
-## 🚀 What I Do
-
-- Design and develop backend services using **ASP.NET Core**
-- Build **ERP and business systems** with clean, maintainable architecture
-- Implement **CQRS, DDD, and layered solutions**
-- Integrate external systems (POS, fiscal, payment APIs)
-- Work with **SQL Server & PostgreSQL** in production environments
+Backend engineer specializing in **.NET 8+**, **Modular Monoliths**, and **Event-Driven Architecture**. Currently balancing full-time retail ERP development with professional contributions to construction management systems.
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Technical Stack
 
-**Backend**
-- C#, ASP.NET Core, EF Core
-- REST APIs, CQRS, MediatR
-
-**Databases**
-- SQL Server (MSSQL), PostgreSQL
-- Advanced SQL, transactions, query optimization
-
-**Architecture & Tools**
-- Clean Architecture, DDD, SOLID
-- Docker, Git, CI/CD basics
+- **Backend:** C#, .NET 8+, ASP.NET Core, EF Core, MediatR
+- **Architecture:** Modular Monolith, DDD, Clean Architecture, Outbox/Inbox Patterns
+- **Messaging & Identity:** RabbitMQ, MassTransit, Keycloak (IAM)
+- **Data & Ops:** PostgreSQL, SQL Server, Redis, Docker, DigitalOcean
 
 ---
 
-## 📌 Featured Projects
+## 💼 Professional Experience
 
-### ⭐ FitnessWorkoutTracker
-Backend-focused fitness tracking system built with ASP.NET Core and EF Core.
+### **Full-time | Retail Sector ERP**
+* **POS & Fiscal Integration:** Integrated A35 Smart POS and fiscal tax systems via REST/XML APIs, reducing manual errors by **90%**.
+* **Audit & Compliance:** Built an automated audit logging system using **EF Core Change Tracker** to monitor critical entity states.
+* **Optimization:** Enhanced financial modules (Loan Calculators) and Customer Rating (NPS) systems through performance tuning.
 
-🔗 https://github.com/Jalal-001/FitnessWorkoutTracker
-
-- Clean architecture
-- Authentication & authorization
-- Modular backend design
-
-### ⭐ E-Commerce Site
-.NET MVC-based e-commerce application using Entity Framework and SQL Server.
-
-🔗 https://github.com/Jalal-001/E-Commerce-site
+### **Contribution | Construction ERP**
+* **Architecture:** Developing a **Modular Monolith** focusing on Accounting, Warehouse, and User modules.
+* **Event-Driven Design:** Configured **RabbitMQ** and implemented **Outbox/Inbox patterns** to ensure 100% data consistency between modules.
+* **Infrastructure:** Managing identity with **Keycloak** and deploying via **Docker** on DigitalOcean.
 
 ---
 
 ## 🎯 Current Focus
-Strengthening backend architecture skills, scalability, and cloud-ready systems.
+Mastering **CLR/BCL** internals and optimizing high-throughput asynchronous communication.
 
 ---
 
-## 📫 Contact
-- 📧 Email: khaligovjalal@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/jalal-khaligov-22b9581b6
+## 📫 Connect with Me
+- 📧 [khaligovjalal@gmail.com](mailto:khaligovjalal@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/jalal-khaligov-22b9581b6)
+- 🌍 Zabrat, Azerbaijan
