@@ -36,4 +36,4 @@ Mastering **CLR/BCL** internals and optimizing high-throughput asynchronous comm
 ## 📫 Connect with Me
 - 📧 [khaligovjalal@gmail.com](mailto:khaligovjalal@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/jalal-khaligov-22b9581b6)
-- 🌍 Zabrat, Azerbaijan
+- 🌍 Baku, Azerbaijan
